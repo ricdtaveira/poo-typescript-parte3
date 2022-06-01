@@ -9,7 +9,7 @@ Os passos definidos a seguir preparam o ambiente de desenvolvimento para o uso d
 O [Node.js](https://nodejs.org/en/download/) viabiliza a criação de aplicações Back-End codificadas em na linguagem JavaScript.  
 >
 >
-A instalação do Node.js é acompanhado da instalação do NPM (Node Package Manager). O NPM permite a inclusão de pacotes de software com os quais são incluidas novas funcionalidades ao ambiente de execução do Node.js.    
+A instalação do Node.js é acompanhado da instalação do NPM (Node Package Manager). O NPM permite a inclusão de pacotes de software ao ambiente de execução do Node.js no qual são incluidas novas funcionalidades a forma de dependencias.     
 >
 >
 Usar os seguintes comandos para verificar a correta instalação do Node.js e do NPM:
