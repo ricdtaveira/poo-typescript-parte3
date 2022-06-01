@@ -1,3 +1,22 @@
+# Instalação
+>
+Os passos definidos a seguir preparam o ambiente de desenvolvimento para o uso do TypeORM.
+>
+
+
+## Instalar o Node.js 
+>
+O Node.js [Download Node.js](https://nodejs.org/en/download/) 
+>
+
+## Instalar o Compilador TypeScript 
+>
+
+
+>
+
+## Insta
+
 # Instalar o TypeORM 
 
 ## Verificar a existência da Instalação do npm 
