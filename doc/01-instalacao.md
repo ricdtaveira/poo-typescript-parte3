@@ -1,4 +1,4 @@
-# Instalação
+# Preparação do Ambiente de Desenvolvimento  
 >
 Os passos definidos a seguir preparam o ambiente de desenvolvimento para o uso do TypeORM.
 >
@@ -6,16 +6,32 @@ Os passos definidos a seguir preparam o ambiente de desenvolvimento para o uso d
 
 ## Instalar o Node.js 
 >
-O Node.js [Download Node.js](https://nodejs.org/en/download/) 
+O [Node.js](https://nodejs.org/en/download/) viabiliza a criação de aplicações Back-End codificadas em na linguagem JavaScript. 
 >
 
 ## Instalar o Compilador TypeScript 
+>
+O [TypeScript](https://www.typescriptlang.org/download) é uma evolução do JavaScript que permite o uso da programação orientada a objetos no ambiente do Node.js. 
+>
+A instalação do TypeScript é feita de forma global da seguinte forma:
+```
+npm install -g typescript
+```
+>
+Após a instalação testar se o compilador está operante executando o seguinte comando:
+```
+tsc -version 
+```
+
 >
 
 
 >
 
 ## Insta
+>
+
+>
 
 # Instalar o TypeORM 
 
