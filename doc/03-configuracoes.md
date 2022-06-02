@@ -28,3 +28,29 @@ Após o termino da configuração e a instalação de todos os módulos node, vo
 npm start
 ```
 >
+
+## Gerar um projeto ESM
+>
+ESM significa ECMAScript module. É um padrão ofcial de um formato para empacotar JavaScript.
+>
+>
+A criação de um projeto Node ESM é realizada com o seguinte comando:
+```
+ npx typeorm init --name MyProject --database postgres --module esm
+ ```
+>
+
+## Gerar um projeto com Espress
+>
+A criação de um projeto TypeORM em uma aplicação web usando o framework `express` é gerada da seguinte forma: 
+>
+>
+```
+npx typeorm init --name MyProject --database mysql --express
+```
+>
+
+## Gerar um arquivo Docker Compose
+>
+
+>
