@@ -19,7 +19,13 @@ Os driver´s de banco de dados disponíveis para o uso do TypeORM são os seguin
 
 >
 A seguinte estrutura de diretório será criada:
-
+git add 
 >
 ![This is a alt text.](/image/myproject.png "Estrutura de pastas e arquivos.")
 >
+
+>
+A estrutura de pastas e arquivos criada acima funciona como um modelo inicial de um projeto TypeORM. O projeto poderá ser extendido criando novas entidades e módulos com funcionalidades que serão implementadas.
+>
+
+
