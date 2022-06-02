@@ -9,7 +9,7 @@ Os passos definidos a seguir preparam o ambiente de desenvolvimento para o uso d
 O [Node.js](https://nodejs.org/en/download/) viabiliza a criação de aplicações Back-End codificadas em na linguagem JavaScript.  
 >
 >
-A instalação do Node.js é acompanhado da instalação do NPM (Node Package Manager). O NPM permite a inclusão de pacotes de software ao ambiente de execução do Node.js no qual são incluidas novas funcionalidades a forma de dependencias.     
+A instalação do Node.js é acompanhado da instalação do NPM (Node Package Manager). O NPM permite a inclusão de pacotes de software ao ambiente de execução do Node.js no qual são incluidas novas funcionalidades na forma de dependencias.     
 >
 >
 Usar os seguintes comandos para verificar a correta instalação do Node.js e do NPM:
@@ -38,49 +38,39 @@ Após a instalação testar se o compilador está operante executando o seguinte
 ```
 tsc -version 
 ```
-
 >
-
-
->
-
-## Insta
->
-
->
-
-# Instalar o TypeORM 
-
-## Verificar a existência da Instalação do npm 
-
-```
-npm -v 
-```
 
 ## Instalar o TypeORM
-
+>
+O [TypeORM](https://typeorm.io/) é um [ORM](https://pt.wikipedia.org/wiki/Mapeamento_objeto-relacional) que executa no ecosistema Node.js nas seguintes plataformas  Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, e Electron. Pode ser usado com TypeScript e JavaScript (ES5, ES6, ES7, ES8).
 ```
 npm install typeorm --save 
 ```
+>
+>
 
-Após a instalação será apresentada a seguinte mensagem
-
-```
-
-
-```
-
-Uma outra foram é a instalação global usando o seguinte comando:
+A instalação global é uma outra forma que usa o seguinte comando:
 ```
 npm install typeorm -g
 ```
 ## Instalar o reflect-metada
 
-O pacote reflect-metada é usado pelo TypeORM em funcionalidades de reflexão.npm fund
+O pacote reflect-metada é usado pelo TypeORM em funcionalidades de reflexão.
 
 ```
 npm install reflect-metadata --save 
 ```
+
+## Instalar o node typings
+>
+O pacote types do node incorpora os tipos necessários ao uso do TypeORM.
+
+```
+npm install @types/node --save-dev  
+```
+> 
+
+## Instalar o driver do banco de dados 
 
 
 
