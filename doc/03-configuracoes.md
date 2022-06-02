@@ -55,5 +55,7 @@ npx typeorm init --name MyProject --database mysql --express
 A criação de um arquivo docker compose é feita da seguinte forma:
 >
 >
+```
 npx typeorm init --name MyProject --database postgres --docker
+```
 >
