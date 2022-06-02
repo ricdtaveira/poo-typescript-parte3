@@ -31,7 +31,7 @@ npm start
 
 ## Gerar um projeto ESM
 >
-ESM significa ECMAScript module. É um padrão ofcial de um formato para empacotar JavaScript.
+ESM significa ECMAScript module. É um padrão oficial de um formato para empacotar JavaScript.
 >
 >
 A criação de um projeto Node ESM é realizada com o seguinte comando:
@@ -52,5 +52,8 @@ npx typeorm init --name MyProject --database mysql --express
 
 ## Gerar um arquivo Docker Compose
 >
-
+A criação de um arquivo docker compose é feita da seguinte forma:
+>
+>
+npx typeorm init --name MyProject --database postgres --docker
 >
