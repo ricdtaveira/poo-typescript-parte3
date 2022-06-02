@@ -72,6 +72,18 @@ npm install @types/node --save-dev
 
 ## Instalar o driver do banco de dados 
 
+### Sqlite
+>
+Instalar o drive do Sqlite.
+>
 
-
-
+```
+npm install sqlite3 --save
+```
+### MySql
+>
+Instalar o drive do MySql.
+>
+```
+npm install sqlite3 --save
+```
