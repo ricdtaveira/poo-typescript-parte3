@@ -85,5 +85,5 @@ npm install sqlite3 --save
 Instalar o drive do MySql.
 >
 ```
-npm install sqlite3 --save
+npm install mysql --save
 ```
