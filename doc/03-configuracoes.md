@@ -40,7 +40,7 @@ A criação de um projeto Node ESM é realizada com o seguinte comando:
  ```
 >
 
-## Gerar um projeto com Espress
+## Gerar um projeto com Express
 >
 A criação de um projeto TypeORM em uma aplicação web usando o framework `express` é gerada da seguinte forma: 
 >
