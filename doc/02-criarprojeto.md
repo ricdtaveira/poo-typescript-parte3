@@ -27,4 +27,12 @@ A seguinte estrutura de diretório será criada:
 A estrutura de pastas e arquivos criada acima funciona como um modelo inicial de um projeto TypeORM. O projeto poderá ser extendido criando novas entidades e módulos com funcionalidades que serão implementadas.
 >
 
+## Instalar as dependências do novo projeto TypeORM
+>
+Entrar na pasta (diretório) e instalar as dependências.
+```
+cd MyProject 
+npm install 
+```
+>
 
