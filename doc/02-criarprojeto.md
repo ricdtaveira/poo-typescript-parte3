@@ -36,3 +36,16 @@ npm install
 ```
 >
 
+## Alterar configuração package.jon
+
+>
+Existem situações onde é necessário alterar a versão de drives de banco de dados para compatibilizar com outros componentes. Os erros decorrentes dessa incompatibilidade são acompanhados de recomendações de alteração.
+>
+>
+Exemplo: alterar no package.json a versão do sqlite3 de "^4.0.1" para "^5.0.8". Após a alteração salvar o arquivo package.json e chamar o comando abaixo.
+```
+npx npm install
+```
+>
+
+
