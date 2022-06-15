@@ -1,10 +1,7 @@
 # Relacionamento Um para Um 
->
-O Relacionamento OneToOne:
->
 > 
 Diagrama de Classe Relacionamento OneToOne.
-![This is a alt text.](/image/Diagrama_Classe_OnotoOne.png "Relacionamento OneToOne.")
+![This is a alt text.](/image/Diagrama_Classe_OnetoOne.png "Relacionamento OneToOne.")
 >
 >
 Modelo Entidade Relacionamento OneToOne.
