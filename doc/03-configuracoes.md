@@ -14,7 +14,7 @@ npm install
 O arquivo `data-source.ts` possui uma estrutura de dados que reune atributos da configuração para acessar o banco de dados. O código abaixo configura o acesso a um banco de dados `postgres`.
 >
 
-![This is a alt text.](/image/datasource.png "Cpnfiguração do acesso ao Banco de Dados.")
+![This is a alt text.](/image/datasource.png "Configuração do acesso ao Banco de Dados.")
 
 >
 Os atributos que são configurados na maioria dos casos são: `host, username, password, database`. Algumas vezes o atributo `port` pode ser alterado. 
